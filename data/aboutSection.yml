@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: About US
+title: >
+  ## About US
+
+  We are a dedicated team of developers specializing in creating innovative and high-quality software solutions using cutting-edge technologies to meet the unique needs of our clients.
+content: >
+  ### A passionate and creative team.
+
+  We are a team capable of developing a wide range of products, including marketing tools, social platforms, Web3 integrations, and game development. We excel at providing customized solutions tailored to our clients' specific needs, helping them achieve their goals. Our focus isn't just on using technology but on delivering real value to our clients, enabling them to stand out in the market. Whether it's small projects or large systems, we have the experience and flexibility to meet various demands.
+button1Name: Hire US
+button2Name: Download PPT
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg

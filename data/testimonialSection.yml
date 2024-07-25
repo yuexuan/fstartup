@@ -1,0 +1,27 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People Say About US?
+
+testimonial:
+  - name: Sarah Thompson
+    comment: From start to finish, their professionalism was evident. They took the time to understand our unique needs and provided innovative solutions that we hadn't considered. Their ability to deliver exceptional service under tight deadlines was truly impressive. The team was responsive, collaborative, and committed to ensuring we were satisfied with every aspect of the project. The final product exceeded our expectations in terms of functionality and design. We couldn't have asked for a better partner in this endeavor and look forward to future collaborations
+    time: Jan 20, 2019
+    star: 5
+  - name: Justin Trudo
+    comment: We were looking for a team that could bring fresh ideas and energy to our project, and we found exactly that. The creativity and passion they demonstrated were evident in every phase of development. They approached challenges with enthusiasm and provided unique solutions that perfectly aligned with our vision. Their dedication to quality and attention to detail were remarkable. It was clear that they were as invested in our success as we were. We highly recommend this team to anyone looking for a creative and passionate partner.
+    time: May 16, 2020
+    star: 4
+  - name: Franky Filth
+    comment: Working with this team was a seamless experience. They are professional, efficient, and consistently ahead of industry trends. Their proactive approach meant that they were able to anticipate our needs and offer suggestions that greatly improved the final product. Communication was clear and timely, making the entire process stress-free. The team's expertise was evident, and they provided valuable insights that helped us refine our project goals. It was a pleasure to work with such a forward-thinking group, and we look forward to continuing our partnership.
+    time: Mar 08, 2021
+    star: 3
+  - name: Laura Martinez
+    comment: We approached the team with a specific vision, and they brought it to life in a way that exceeded our expectations. Their ability to understand and translate our requirements into a functional and aesthetically pleasing product was impressive. The attention to detail and commitment to quality were evident in the final result. They were open to feedback and made adjustments quickly, ensuring that the end product was exactly what we needed. Their professionalism and dedication made the entire process enjoyable and rewarding. Great job, and thank you for your hard work!
+    time: Jue 08, 2022
+    star: 5
+  - name: Amanda Davis
+    comment: From the initial consultation to the final delivery, the level of support we received was outstanding. The team was always available to address our concerns and provide guidance. Their expertise and dedication resulted in a fantastic final product that met all our requirements. They made the process smooth and stress-free, which was a huge relief. We have found our go-to team for all our future projects. Their professionalism, reliability, and skill set them apart from other teams we have worked with. We highly recommend them to anyone seeking top-quality results and exceptional service.
+    time: Nov 18, 2023
+    star: 4.5

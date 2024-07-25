@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hi, We are Fast Startup Team
+content: >
+  # We are here for your technical business
+
+  We are a professional development team specializing in delivering high-quality software solutions. With expertise in front-end, back-end, and full-stack development, we respond swiftly to client needs and deliver outstanding products.
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/2960351.jpg
+videoThumb: images/hero/popup-thumb.png
+videoURL: https://i.vimeocdn.com/video/860179453-f545c3914bbed5e1886306ac670dd576473b8e710e0fe4bb9d9ba1f7d86d02cb-d

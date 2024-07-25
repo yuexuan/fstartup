@@ -1,0 +1,39 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Creative Services
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+service:
+  - content: >
+      #### UI/UX Design 
+
+      From a client perspective, we excel in UI/UX design by delivering interfaces that are not only visually appealing but also highly intuitive. We prioritize your users' needs to create seamless and engaging experiences, ensuring that your product is both easy to use and enjoyable, ultimately boosting user satisfaction and engagement.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web and Mobile Development 
+
+      We excel in web and mobile development by delivering responsive, high-performance applications tailored to user needs. Our expertise includes creating intuitive interfaces, integrating complex functionalities, and ensuring seamless cross-platform experiences, all while employing the latest technologies and best practices to ensure optimal performance and user satisfaction.
+    image: images/service/web.svg
+  - content: >
+      #### Game Development
+
+      In game development, we specialize in creating immersive and entertaining experiences. Our expertise includes designing engaging gameplay mechanics, stunning graphics, and smooth animations. We focus on delivering high-quality, interactive games across platforms, ensuring a captivating experience that keeps players coming back for more.
+    image: images/service/creative.svg
+  - content: >
+      #### E-commerce 
+
+      In e-commerce, we excel at building user-friendly, secure, and high-performing online stores. We focus on creating seamless shopping experiences with intuitive navigation, efficient checkout processes, and effective product displays. Our solutions are designed to enhance customer satisfaction, drive sales, and support your business growth.
+    image: images/service/branding.svg
+  - content: >
+      #### Web3 Market
+
+      Our expertise includes integrating smart contracts, creating secure digital assets, and enhancing user interactions within decentralized environments. We focus on delivering innovative Web3 experiences that leverage blockchain technology to empower users and drive the future of the internet.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### SEO/SEM
+
+       Our approach includes keyword research, on-page optimization, and strategic link building. We focus on improving your site’s relevance and authority, driving organic traffic, and increasing overall online presence to achieve better search engine results.
+    image: images/service/web.svg
